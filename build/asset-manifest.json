@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7c3c48c1.css",
+    "main.js": "/static/js/main.d13a5b73.js",
+    "static/js/787.21d17fcb.chunk.js": "/static/js/787.21d17fcb.chunk.js",
+    "static/media/SignIn.png": "/static/media/SignIn.80af51a716010cf6aeb0.png",
+    "static/media/diploma.png": "/static/media/diploma.9c80328294ae3e5a8e9c.png",
+    "static/media/BestDeals.png": "/static/media/BestDeals.e8b6e98bbd6a1987b105.png",
+    "static/media/Profile pic.png": "/static/media/Profile pic.32e0428967358d472530.png",
+    "static/media/addtocart.png": "/static/media/addtocart.714dbf62c463204f01a9.png",
+    "static/media/javascript.png": "/static/media/javascript.c8780b30f9b07ee38c16.png",
+    "static/media/github.png": "/static/media/github.f11021803f68852df283.png",
+    "static/media/html5.png": "/static/media/html5.2c6a71b184b518b01b9a.png",
+    "static/media/css-3.png": "/static/media/css-3.463e319bad8e0edf1ef7.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.7c3c48c1.css.map": "/static/css/main.7c3c48c1.css.map",
+    "main.d13a5b73.js.map": "/static/js/main.d13a5b73.js.map",
+    "787.21d17fcb.chunk.js.map": "/static/js/787.21d17fcb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c3c48c1.css",
+    "static/js/main.d13a5b73.js"
+  ]
+}
