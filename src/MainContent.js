@@ -40,10 +40,10 @@ export default function MainContent() {
 
             <div className="container">
                 <div id="apiimg">
-                    <img src={bestdeals} alt="webiste"/>
+                    <a href="https://easydealsstore.netlify.app/" target="_blank" rel="noreferrer"><img src={bestdeals} alt="webiste"/></a>
                 </div>
                 <div className="about-text">
-                    <h4>BestDeals</h4>
+                    <a href="https://easydealsstore.netlify.app/" target="_blank" rel="noreferrer"><h4>BestDeals</h4></a>
                     <p> BestDeals is a onloine platform ecommerce store selling various products. The website provides an interface for adding items to a kart and viewing the products in the kard
                     </p>
                 </div>
@@ -52,10 +52,10 @@ export default function MainContent() {
 
             <div className="container swap">
                 <div id="apiimg">
-                    <img src={signin} alt="website"/>
+                    <a href="https://loginsignuppagelucasp.netlify.app/" target="_blank" rel="noreferrer"><img src={signin} alt="website"/></a>
                 </div>
                 <div className="about-text">
-                    <h4>Sign In page</h4>
+                    <a href="https://loginsignuppagelucasp.netlify.app/" target="_blank" rel="noreferrer"><h4>Sign In page</h4></a>
                     <p>The sign in pages includes clean animations and navigation for users to input their information or create a account.
                     </p>
                 </div>
@@ -64,10 +64,10 @@ export default function MainContent() {
 
             <div className="container">
                 <div id="apiimg">
-                    <img id="atcimg" src={atc} alt="diploma"/>
+                    <a href="https://addtocartbylucasp.netlify.app/" target="_blank" rel="noreferrer"><img id="atcimg" src={atc} alt="diploma"/></a>
                 </div>
                 <div className="about-text">
-                    <h4>add to cart App</h4>
+                    <a href="https://addtocartbylucasp.netlify.app/" target="_blank" rel="noreferrer"><h4>add to cart App</h4></a>
                     <p>If you ever forget what you need to buy when grocery shopping my addtocart app is there!
                         The app allows you to enter multiple items that store and displays the item. 
                         To remove the item all you have to is click on the item and it is removed.
