@@ -16,9 +16,9 @@ export default function Hero() {
                     <h1>Front-End React Developer</h1>
                     <p>Hi, I'm Lucas Pereira. A passionate Front-end Developer based in Ontario, Canada</p>
                     <div id="links">
-                        <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile"><img className="linklogo" src={linkedInIcon} alt=""/></a>
+                        <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank"><img className="linklogo" src={linkedInIcon} alt=""/></a>
                         
-                        <a href="https://github.com/Cheesy27"><img class = "linklogo" src={githubLogo} alt=""/></a>
+                        <a href="https://github.com/Cheesy27" target="_blank"><img class = "linklogo" src={githubLogo} alt=""/></a>
                         
                     </div>
                 </div>
