@@ -18,7 +18,7 @@ export default function MainContent() {
                     <h4>About Me</h4>
                     <h3>A dedicated Front-end Developer based in Mississauga📍</h3>
                     <p>As a junior Front-End Developer, I possess an impressive arsenal of skill
-                        in HTML, CSS Javascript, React, Tailwind, Typescript, and SCSS. I excel 
+                        in HTML, CSS, Javascript, React, Tailwind, Typescript, and SCSS. I excel 
                         in designing and maintaining responsive websites that offer a smooth user experience.
                         My expertise lies in crafting dynamic, engaging interfaces through writing 
                         clean and optimized code and utilizing cutting-edge development tools and techniques.
