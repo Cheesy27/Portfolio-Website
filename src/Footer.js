@@ -8,7 +8,7 @@ export default function Footer() {
         <div id="footer">
              <div id="contact">
                 <h2>Contact</h2>
-                <p>email: luacsjan27@gmail.com</p>
+                <p>email: lucasjan27@gmail.com</p>
                 <div id="links">
                 <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank" rel="noreferrer"><img className="linklogo" src={linkedInIcon} alt=""/></a>
                         
