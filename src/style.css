@@ -198,9 +198,14 @@ nav ul li a:hover {
 }
 
 .pheader{
-    display: block;
-    margin-left: 230px;
-    margin-bottom: 0;
+    border: 5px solid green;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    align-items: center;
+    
+    
+    
 }
 
 #atcimg{
